@@ -25,7 +25,7 @@
 
 # 📖 Hello Rails React App <a name="about-project"></a>
 
-In this web application i have implemented a connection between a Ruby on Rails back-end and React front-end in one app..
+In this web application i have implemented a connection between a Ruby on Rails back-end and React front-end in one app as per the given instructions..
 
 ## 🛠 Built With <a name="built-with"></a>
 
