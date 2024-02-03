@@ -62,7 +62,7 @@ In order to run this project you need:
 - **`PostgreSQL`**.
 - **` Code Editor`**.
 - **`Ruby On Rails`**.
-- React
+- **`React`**
 
 ### Setup
 
