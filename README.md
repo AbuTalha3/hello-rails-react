@@ -60,7 +60,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - **`PostgreSQL`**.
-- **`Code Editor`**.
+- **` Code Editor`**.
 - Ruby On Rails.
 - React
 
