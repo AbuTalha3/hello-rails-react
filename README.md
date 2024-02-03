@@ -61,7 +61,7 @@ In order to run this project you need:
 
 - **`PostgreSQL`**.
 - **` Code Editor`**.
-- Ruby On Rails.
+- **`Ruby On Rails`**.
 - React
 
 ### Setup
